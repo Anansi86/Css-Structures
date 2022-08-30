@@ -1,0 +1,41 @@
+p {
+    color: red;
+}
+
+
+h1 {
+
+}
+
+a:link {
+    color: purple;
+}
+
+.manythings {
+
+}
+
+#onething {
+
+}
+
+* {
+
+}
+
+.box p {
+
+}
+
+.box p:first-child {
+
+}
+
+h1, h2, .intro {
+
+}
+
+li {
+    list-style-type: "🐈 ";
+  }
+  
